@@ -23,13 +23,16 @@ An offline-first expense tracker that stores data locally in your browser (Index
 ### 1) Install
 ```bash
 npm install
-'''
-
+```
 ### 2) Run locally
+```bash
 npm run dev
-
-Build
+```
+### 3) Build
+```bash
 npm run build
-
-Preview build
+```
+### 4) Preview Build
+```bash
 npm run preview
+```
